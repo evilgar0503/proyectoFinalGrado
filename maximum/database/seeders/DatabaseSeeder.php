@@ -25,7 +25,7 @@ class DatabaseSeeder extends Seeder
                 'apellidos' => 'Villar García',
                 'dni' => '26823122Q',
                 'email' => 'eduardovillar194@gmail.com',
-                'password' => '12345678',
+                'password' => '$2y$10$ktXLGsp.PNzIHG2bGttGB.oWRLqcSD8ZEi/wOsoQXwDsfzok/J7ru',
                 'fecha_nacimiento' => '2002-03-05',
                 'telefono' => '652538014',
                 'cp' => '14940',
